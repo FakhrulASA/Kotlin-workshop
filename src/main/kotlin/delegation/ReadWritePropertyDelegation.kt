@@ -1,4 +1,4 @@
-package Delegation
+package delegation
 import kotlin.reflect.KProperty
 
 import kotlin.properties.ReadWriteProperty
