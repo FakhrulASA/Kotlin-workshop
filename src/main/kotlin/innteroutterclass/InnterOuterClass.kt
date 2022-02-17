@@ -1,0 +1,4 @@
+package innteroutterclass
+
+class InnterOuterClass {
+}
