@@ -13,5 +13,5 @@ val doPrint = PrintValue {
     it
 }
 fun main() {
-    println("Is 7 even? - ${doPrint.printVal("faa")}")
+    println("Print value - ${doPrint.printVal("faa")}")
 }
